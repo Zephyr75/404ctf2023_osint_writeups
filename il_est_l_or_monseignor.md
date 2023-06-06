@@ -10,6 +10,8 @@
     - le nom de la marque du constructeur de la maison d'Harpagon, qui reçoit beaucoup de plaintes
     - le pseudo ou prénom d'une personne qui a expliqué en 11 points les problèmes qu'elle a eu avec ce constructeur dans une publication en juillet 2017
 
-En tapant "problème constructeur" dans une recherche Google limitée entre le 1er et le 31 juillet 2017, on tombe sur https://www.60millions-mag.com/forum/travaux--f78/construction-avec-maison-familiale-a-eviter-t45687.html où un utilisateur détaille effectivement en 11 points les problèmes qu'il a eu avec le constructeur Maison Familiale.
+Commencant par la somme que possède Harpagon. Dans la pièce de théâtre, on apprend que Harpagon possède 10 000 écus. En cherchant la valeur d'un écu sur internet, on peut trouver le taux de conversion sur https://www.cairn.info/journal-de-voyage-de-michel-de-montaigne--9782130443001-page-334.htm. On peut donc en déduire la fortune d'Harpagon en livres.
+
+Ensuite, en tapant "problème constructeur" dans une recherche Google limitée entre le 1er et le 31 juillet 2017, on tombe sur https://www.60millions-mag.com/forum/travaux--f78/construction-avec-maison-familiale-a-eviter-t45687.html où un utilisateur détaille effectivement en 11 points les problèmes qu'il a eu avec le constructeur Maison Familiale.
 
 En recherchant le siret de Maison Familiale sur internet, on a du mal à le trouver. En effet, on recherchant plus d'informations sur l'entreprise, on tombe par exemple sur sa page Facebook qui nous apprend qu'elle appartient au groupe Geoxia. En recherchant le numéro Siret de Geoxia pour l'Ile-de-France, on finit le challenge.
